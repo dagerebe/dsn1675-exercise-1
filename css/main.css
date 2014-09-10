@@ -81,6 +81,7 @@ img {
     padding: 0 1rem;
     width: 33.33333%;
     border-right: 1px solid #ccc;
+    margin-bottom: 2rem;
 }
 
 .info:last-child {
